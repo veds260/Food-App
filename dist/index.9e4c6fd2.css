@@ -1,0 +1,49 @@
+.header {
+  background-color: #fbcb05;
+  border: 2px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logo {
+  width: 150px;
+}
+
+.nav-items > ul {
+  display: flex;
+}
+
+.nav-items > ul > li {
+  margin: 10px;
+  padding: 10px;
+  font-size: 25px;
+  list-style-type: none;
+}
+
+.restcontainer {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.restaurant {
+  background-color: #f0f0f0;
+  width: 200px;
+  height: 300px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.restaurant:hover {
+  cursor: pointer;
+  background-color: #fbcb05;
+  border: 2px solid #000;
+}
+
+.image {
+  width: 100%;
+}
+
+.body {
+  margin-top: 10px;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
