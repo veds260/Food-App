@@ -22,13 +22,13 @@
 
 .restcontainer {
   flex-wrap: wrap;
+  justify-content: center;
   display: flex;
 }
 
 .restaurant {
   background-color: #f0f0f0;
-  width: 200px;
-  height: 300px;
+  width: 300px;
   margin: 5px;
   padding: 5px;
 }
